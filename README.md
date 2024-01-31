@@ -33,4 +33,8 @@ N/A
 - Email: anna.cormier.96@gmail.com
 
 
-https://github.com/AnnaC0rmier/Note-Taker/assets/149715329/450b10eb-c8f3-45eb-a41f-1f77b03e7f80
+
+https://github.com/AnnaC0rmier/Note-taker/assets/149715329/063dc37b-1544-4781-835d-1b69f9954bf5
+
+
+
